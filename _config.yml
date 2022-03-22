@@ -1,9 +1,10 @@
 # Site settings
 title: 蚌埠市光彩幼儿园
+short-title: 光彩幼儿园
 SEOTitle: 蚌埠市光彩幼儿园 | BBS Guangcai Kindergarten
 header-img: img/home-bg.jpg
 email: chenpin@bbsgcyey.cn
-description: "描述用于显示在搜索引擎"
+description: "蚌埠市光彩幼儿园是市级一类幼儿园，环境优美。在“人本、成长、专业、和谐”的宗旨下，利用高质量、科学化、专业化的教学手段，致力于培养和谐发展的幼儿。以多元智力理论为基础，着力促进幼儿多元智力的发展。培养健康、自主、快乐、自信、和谐发展的小公民。"
 keyword: "关键词"
 url: "https://bbsgcyey.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -78,7 +79,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "蚌埠市光彩幼儿园，开园于二零零六年九月一日，占地面积约2000平方米，投资50多万元。幼儿园东与蚌山法院为邻，西与民政家园相接。"
+sidebar-about-description: "蚌埠市光彩幼儿园，开园于二零零六年九月一日，占地面积约2000平方米，投资150多万元。幼儿园东与蚌山法院为邻，西与民政家园相接。"
 sidebar-avatar: /img/avatar.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
