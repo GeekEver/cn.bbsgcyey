@@ -59,11 +59,11 @@ tags:
 ### 爱的祝福🧚👨‍👩‍👧‍👦
 
 星期五大声对妈妈、奶奶、姥姥一声”我爱您“并说一句美好的祝福。
-<video id="video_0" controls="" preload="none" poster="/img/in-post/2022-38/bless-end.jpg">
-      <source id="bless_0" src="/img/in-post/2022-38/bless-0.mp4" type="video/mp4">
+<video controls preload="auto" width="100%">
+      <source src="/img/in-post/2022-38/bless-0.mp4" type="video/mp4">
 </video>
-<video id="video_1" controls="" preload="none" poster="/img/in-post/2022-38/bless-end.jpg">
-      <source id="bless_1" src="/img/in-post/2022-38/bless-1.mp4" type="video/mp4">
+<video controls preload="auto" width="100%">
+      <source src="/img/in-post/2022-38/bless-1.mp4" type="video/mp4">
 </video>
 ![](/img/in-post/2022-38/bless-end.jpg)
 

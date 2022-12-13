@@ -152,8 +152,8 @@ tags:
 
 ![](/img/in-post/qinziyuedu/82e1f7154193c9a62751ab949397e6df.jpeg)
 
-<video id="video_0" controls="" preload="none" poster="/img/in-post/qinziyuedu/qinziyuedu-video-bg.jpg">
-      <source id="read" src="/img/in-post/qinziyuedu/qinziyuedu.mp4" type="video/mp4">
+<video controls preload="auto" width="100%">
+      <source src="/img/in-post/qinziyuedu/qinziyuedu.mp4" type="video/mp4">
 </video>
 
 幼儿早期阅读能力的培养程度，将会影响其终身学习的能力和水平。希望通过开展阅读教育的系列活动，能提高幼儿的观察能力、语言表达能力、掌握思维的基本技能和解决问题的策略，形成良好的阅读习惯、了解和喜欢文字、积累丰富的阅读经验、萌发阅读热情、增强社会交往的积极性和主动性等，让幼儿综合发展的能力有较大的提高。
