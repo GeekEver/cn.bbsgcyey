@@ -7,7 +7,7 @@ author:     "蚌埠市光彩幼儿园"
 header-img: "img/in-post/qinziyuedu/qinziyuedu-bg.jpg"
 catalog: true
 tags:
-    - 阅读活动
+    - 活动
     - 亲子互动
 ---
 
